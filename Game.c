@@ -101,7 +101,7 @@ int main() {
     initializeBoard(board);
     placeShips(ships);
 
-    printf("\n~~~~(BATALHA NAVAL GAME)~~~~\n");
+    printf("\n~~~~(BATALHA NAVAL)~~~~\n");
     printf("\nYou need to find 3 hidden ships\n");
     printf("Good luck!\n\n");
 
